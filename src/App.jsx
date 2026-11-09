@@ -5,6 +5,7 @@ import WatchList from './pages/WatchList.jsx'
 import MovieDetailsPage from './pages/MovieDetailsPage.jsx'
 import Layout from './Components/Layout.jsx'
 
+
 const App = () =>{
   return (
     <div>
